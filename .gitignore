@@ -1,0 +1,15 @@
+# Tool Backup file
+# VIM Simple, Full is https://github.com/github/gitignore/blob/master/Global/vim.gitignore
+*.swp
+*.swo
+
+
+# OS generated files #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
