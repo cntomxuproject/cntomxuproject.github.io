@@ -1,1 +1,32 @@
 @charset "UTF-8";
+
+html, body {
+	height:  100%;
+	min-width: 960px;
+}
+
+body {
+	padding: 0px 0px 20px 0px;
+	margin: 0;
+	border: 0;
+	color: #ffffff;
+	background-color: #232323;
+}
+
+#header {
+	left:   0px;
+	top:    0px;
+	height: 60px;
+	width:  100%;
+	border-bottom: 2px solid #3B3B3B;
+}
+
+.logo {
+    background: url("../../images/marscoder.48.png") no-repeat;
+    /*background-size: 250px 48px; */
+    padding-left: 56px;
+    height: 48px;
+    width:  200px;
+    margin: 6px 0;
+    line-height: 50px;
+}
